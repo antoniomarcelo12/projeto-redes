@@ -1,7 +1,9 @@
 
 
  # - [](#) Instructions: 
- #### Just run python3 name_of_the_file.py
+ #### (1) Run the DNS server with python3 dns_server.py
+ #### (2) Run the UDP/TCP server with python3 [tcp/udp]-server.py
+ #### (3) Run the UDP/TCP client with python3 [tcp/udp]-client.py
 
 
 
