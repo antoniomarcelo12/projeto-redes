@@ -75,11 +75,11 @@ protocolo da camada de transporte (UDP e TCP);
         solicitação até o recebimento da resposta, ou seja, existirão 5
         tempos totais, um para cada requisição.
 
-- [ ] (2) Os códigos devem ser armazenados no Github, assim como as capturas feitas via
+- [X] (2) Os códigos devem ser armazenados no Github, assim como as capturas feitas via
 Wireshark, e o link deve constar no relatório:
 - [X] (a) Criar um README contendo as informações de como executar os
     códigos;
-- [ ] (b) Lembre-se de criar um repositório público.
+- [X] (b) Lembre-se de criar um repositório público.
 
 - [X] (3) O Relatório com os prints das capturas do Wireshark deve ser anexado nesta
 atividade do Classroom, com identificação da dupla e enviado apenas por um
